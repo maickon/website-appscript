@@ -1,5 +1,14 @@
 # Projeto Landing page no App Script
+
 Uma simples landing page feita dentro do google app script que pode ser editada através de uma planilha do google.
+
+# URL do projeto puro
+
+https://script.google.com/macros/s/AKfycbxOPJknprf3jjsUgGoW5s8IZHlXbXduwVvZ4tISas2SeBH6GcsDzGHF0H1C5BUrtMQ1/exec
+
+# URL do projeto dentro do Google Sites
+
+https://sites.google.com/view/mksoftpage/home
 
 # Dados de acesso
 
